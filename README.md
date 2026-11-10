@@ -1,2 +1,0 @@
-# AMAC
-Proyecto final
